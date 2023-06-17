@@ -1,0 +1,19 @@
+
+h1{
+    text-align: center;
+    font-family: tahoma;
+    font-size: 1.5em;
+  
+  }
+  p{
+    text-align:center;
+    font-family: Tahoma;
+    font-size: 1em;
+  }
+  form{
+    background-color: rgba(32, 32, 146, 0.978);
+    margin:50px 40px;
+  }
+  input{
+    width: 100%;
+  }
